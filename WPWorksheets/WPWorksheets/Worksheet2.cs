@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WPWorksheets {
 
-    class Worksheet2 {
+    public class Worksheet2 {
 
         /// <summary>
         /// Returns 1
